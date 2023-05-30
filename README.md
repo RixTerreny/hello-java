@@ -1,3 +1,3 @@
- [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) <h2> hello-java </h2>
+<h1>  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  hello-java </h1>
 
 First project with java

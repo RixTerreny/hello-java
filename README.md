@@ -5,4 +5,4 @@
 </p>
 
 
-First project with java printing "hello Java" on terminal
+First project with java printing "Hello Java" on terminal

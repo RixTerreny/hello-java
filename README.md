@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" /> <h1>hello-java</h1> 
+    <img src="https://skillicons.dev/icons?i=java" /> <h1>Hello-Java</h1> 
   </a>
 </p>
 

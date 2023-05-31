@@ -3,4 +3,4 @@
 
 
 
-First project with java printing "Hello Java" on terminal
+First project with java printing "Hello Java" on the terminal
